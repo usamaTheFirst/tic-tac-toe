@@ -60,5 +60,11 @@ button{
 	#contents{
 		width: 800px;
 	}
+	.game-container{
+
+	display: grid;
+	grid-template-rows: repeat(3, 13vh);
+	grid-template-columns: repeat(3, 10vh);
+}
 	
 }
