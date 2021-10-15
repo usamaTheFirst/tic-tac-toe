@@ -43,6 +43,7 @@ function reset() {
     });
     currentTurn = "X";
     gameWon = false;
+    changeInfo();
 
 
 
